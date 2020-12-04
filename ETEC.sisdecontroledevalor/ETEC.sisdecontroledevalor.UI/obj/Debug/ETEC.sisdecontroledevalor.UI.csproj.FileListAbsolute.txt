@@ -1,0 +1,128 @@
+c:\users\meev\documents\visual studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Cadastro_de_produtos.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\MySql.Data.dll
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.EsqueciMS.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GerenciamentodeValores.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+C:\Users\Meev\Documents\Visual Studio 2015\Projects\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Cadastro_de_produtos.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.EsqueciMS.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GerenciamentodeValores.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+C:\Users\Aluno\Desktop\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+G:\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+G:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.application
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+F:\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.application
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.application
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+G:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.application
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.application
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+F:\TRABALHO WALLACE-ALINE DS\Resultado semi final WAT\TRABALHO WALLACE\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.application
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.config
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.application
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.exe
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\bin\Debug\ETEC.sisdecontroledevalor.UI.pdb
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csprojResolveAssemblyReference.cache
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Form1.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.GRvalorlucro.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Menu.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Primeiro_login.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Properties.Resources.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.Slides.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.usContr.resources
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.csproj.GenerateResource.Cache
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.exe.manifest
+G:\ETEC.sisdecontroledevalor\ETEC.sisdecontroledevalor.UI\obj\Debug\ETEC.sisdecontroledevalor.UI.application
